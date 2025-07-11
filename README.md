@@ -18,7 +18,7 @@ GameZone 360 is a cloud -ready, microservice-based web app built with Java 21, S
 
 -------
 ## Project Structure
-""bash
+-------
 gamezone-360
 |-Backend/
 |    |- user-service/
