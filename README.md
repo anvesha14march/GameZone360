@@ -15,7 +15,6 @@ GameZone 360 is a cloud -ready, microservice-based web app built with Java 21, S
 |Auth             | Spring Security + JWT             |
 |Cloud            | AWS(EC2, RDS, S3, API Gateway)    |
 |Dev Tools        | Docker, Postman, GitHub Actions   |
-|-----------------|-----------------------------------|
 
 -------
 ## Project Structure
